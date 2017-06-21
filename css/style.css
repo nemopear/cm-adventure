@@ -11,7 +11,8 @@ img {
   max-width: none; }
 
 .block {
-  margin: 70px 0; }
+  margin: 70px 0;
+  position: relative; }
   .block .block-title {
     font-size: 34px;
     text-transform: uppercase;
